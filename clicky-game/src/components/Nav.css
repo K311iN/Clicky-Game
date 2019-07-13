@@ -1,0 +1,13 @@
+.navbar {
+    background-color: black;
+  }
+  .number {
+    font-size: 30px;
+    color: white;
+  }
+  #title {
+    font-size: 60px;
+  }
+  .navbar-text {
+    color: white;
+  }
