@@ -1,7 +1,7 @@
 import React from "react";
-
-
 import "./Nav.css";
+
+
 const Nav = props => (
   <div>
     <nav className="navbar fixed-top">

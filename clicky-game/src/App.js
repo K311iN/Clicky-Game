@@ -19,10 +19,11 @@ const randomizedCards = cards => {
 let pickedCards = [];
 
 class App extends React.Component {
+  
   state = {
     score: 0,
     highScore: 0,
-    navbarMessage: "Defeat enemies by clicking on them only once!",
+    navbarMessage: "Get the high score but clicking on them once!",
     cards: cards,
     randomCards: cards
   };
